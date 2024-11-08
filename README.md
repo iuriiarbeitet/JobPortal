@@ -62,11 +62,7 @@ Nach dem Start der Anwendung können Nutzer:
 
 Beiträge sind willkommen! Bitte öffne einen Pull Request mit Verbesserungsvorschlägen oder zur Behebung von Problemen.
 
-## Lizenz
-
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Details findest du in der [LICENSE](LICENSE)-Datei.
-
 ## Kontakt
 
-Für weitere Fragen schicke eine E-Mail an [email@example.com](mailto:email@example.com).
+Für weitere Fragen schicke eine E-Mail an iurii.rotari.1987@gmail.com.
 
