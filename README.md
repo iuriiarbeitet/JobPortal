@@ -67,6 +67,14 @@ Beiträge sind willkommen! Bitte öffne einen Pull Request mit Verbesserungsvors
 Für weitere Fragen schicke eine E-Mail an iurii.rotari.1987@gmail.com.
 
 
+
+
+![Screenshot](img/intro.png)
+
 ![Screenshot](img/JobSeeker_profile.png)
+
+![Screenshot](img/Recruiter_profile.png)
+
+
 
 
