@@ -1,0 +1,19 @@
+
+spring:
+  application:
+    name: jobPortal
+  datasource:
+    url: jdbc:mysql://localhost:3306/jobportal
+    username: root
+    password: 077009
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+
+server:
+  ssl:
+    enabled: true
+    key-store-type: PKCS12
+    key-store: classpath:ssl/javaspring_ssl.pfx
+    key-store-password: 077009
